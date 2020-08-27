@@ -1,2 +1,4 @@
 - bananas
 - flour
+- eggs
+- some type of raising agent
